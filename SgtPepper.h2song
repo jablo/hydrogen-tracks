@@ -2,7 +2,7 @@
 <song>
  <version>0.9.6</version>
  <bpm>95</bpm>
- <volume>0.73</volume>
+ <volume>0.631579</volume>
  <metronomeVolume>0.5</metronomeVolume>
  <name>Untitled Song</name>
  <author>Unknown</author>
@@ -41,7 +41,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///Kick-V12-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V12-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -58,7 +58,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V11-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V11-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -75,7 +75,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V10-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V10-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -92,7 +92,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V09-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V09-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -109,7 +109,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V08-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V08-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -126,7 +126,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V07-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V07-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -143,7 +143,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V06-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V06-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -160,7 +160,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V05-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V05-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -177,7 +177,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V04-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V04-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -194,7 +194,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V03-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V03-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -211,7 +211,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V02-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V02-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -228,7 +228,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Kick-V01-Yamaha-16x16.flac</filename>
+    <filename>//////Kick-V01-Yamaha-16x16.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -271,7 +271,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///SNR-OFF-V08-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V08-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -288,7 +288,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNR-OFF-V07-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V07-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -305,7 +305,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNR-OFF-V06-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V06-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -322,7 +322,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNR-OFF-V05-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V05-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -339,7 +339,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNR-OFF-V04-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V04-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -356,7 +356,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNR-OFF-V03-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V03-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -373,7 +373,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNR-OFF-V02-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V02-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -390,7 +390,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNR-OFF-V01-CustomWorks-6x13.flac</filename>
+    <filename>//////SNR-OFF-V01-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -433,7 +433,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///SNARE-V02-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V02-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -450,7 +450,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V04-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V04-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -467,7 +467,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V06-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V06-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -484,7 +484,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V08-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V08-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -501,7 +501,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V10-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V10-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -518,7 +518,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V12-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V12-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -535,7 +535,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V14-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V14-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -552,7 +552,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V16-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V16-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -569,7 +569,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V18-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V18-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -586,7 +586,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V20-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V20-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -629,7 +629,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///SNARE-V19-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V19-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -646,7 +646,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V17-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V17-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -663,7 +663,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V15-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V15-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -680,7 +680,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V13-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V13-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -697,7 +697,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V11-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V11-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -714,7 +714,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V09-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V09-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -731,7 +731,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V07-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V07-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -748,7 +748,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V05-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V05-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -765,7 +765,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V03-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V03-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -782,7 +782,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SNARE-V01-CustomWorks-6x13.flac</filename>
+    <filename>//////SNARE-V01-CustomWorks-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -825,7 +825,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///ROLL-01-CW 6x13.flac</filename>
+    <filename>//////ROLL-01-CW 6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -868,7 +868,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///RIMSHOTS-V08-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V08-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -885,7 +885,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///RIMSHOTS-V07-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V07-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -902,7 +902,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///RIMSHOTS-V06-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V06-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -919,7 +919,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///RIMSHOTS-V05-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V05-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -936,7 +936,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///RIMSHOTS-V04-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V04-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -953,7 +953,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///RIMSHOTS-V03-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V03-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -970,7 +970,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///RIMSHOTS-V02-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V02-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -987,7 +987,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///RIMSHOTS-V01-CW-6x13.flac</filename>
+    <filename>//////RIMSHOTS-V01-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1030,7 +1030,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///FLAMS-V10-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V10-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1047,7 +1047,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V09-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V09-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1064,7 +1064,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V08-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V08-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1081,7 +1081,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V07-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V07-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1098,7 +1098,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V06-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V06-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1115,7 +1115,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V05-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V05-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1132,7 +1132,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V04-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V04-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1149,7 +1149,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V03-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V03-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1166,7 +1166,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V02-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V02-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1183,7 +1183,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAMS-V01-CW-6x13.flac</filename>
+    <filename>//////FLAMS-V01-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1226,7 +1226,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///SSTICK-V08-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V08-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1243,7 +1243,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SSTICK-V07-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V07-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1260,7 +1260,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SSTICK-V06-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V06-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1277,7 +1277,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SSTICK-V05-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V05-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1294,7 +1294,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SSTICK-V04-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V04-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1311,7 +1311,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SSTICK-V03-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V03-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1328,7 +1328,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SSTICK-V02-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V02-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1345,7 +1345,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///SSTICK-V01-CW-6x13.flac</filename>
+    <filename>//////SSTICK-V01-CW-6x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1388,7 +1388,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///HHats-CL-V10-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V10-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1405,7 +1405,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V09-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V09-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1422,7 +1422,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V08-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V08-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1439,7 +1439,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V07-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V07-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1456,7 +1456,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V06-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V06-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1473,7 +1473,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V05-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V05-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1490,7 +1490,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V04-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V04-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1507,7 +1507,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V03-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V03-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1524,7 +1524,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V02-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V02-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1541,7 +1541,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-CL-V01-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-CL-V01-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1584,7 +1584,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///HHats-OP-V08-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V08-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1601,7 +1601,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-OP-V07-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V07-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1618,7 +1618,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-OP-V06-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V06-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1635,7 +1635,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-OP-V05-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V05-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1652,7 +1652,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-OP-V04-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V04-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1669,7 +1669,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-OP-V03-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V03-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1686,7 +1686,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-OP-V02-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V02-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1703,7 +1703,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-OP-V01-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-OP-V01-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1746,7 +1746,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///HHats-PDL-V05-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-PDL-V05-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1763,7 +1763,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-PDL-V04-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-PDL-V04-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1780,7 +1780,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-PDL-V02-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-PDL-V02-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1797,7 +1797,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-PDL-V01-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-PDL-V01-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1840,7 +1840,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///HHats-Crash-V03-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-Crash-V03-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1857,7 +1857,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-Crash-V02-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-Crash-V02-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1874,7 +1874,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///HHats-Crash-V01-SABIAN-AAX.flac</filename>
+    <filename>//////HHats-Crash-V01-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1917,7 +1917,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///Shack-HHats-CL-V06-SABIAN-AAX.flac</filename>
+    <filename>//////Shack-HHats-CL-V06-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1934,7 +1934,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Shack-HHats-CL-V05-SABIAN-AAX.flac</filename>
+    <filename>//////Shack-HHats-CL-V05-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1951,7 +1951,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Shack-HHats-CL-V04-SABIAN-AAX.flac</filename>
+    <filename>//////Shack-HHats-CL-V04-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1968,7 +1968,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Shack-HHats-CL-V03-SABIAN-AAX.flac</filename>
+    <filename>//////Shack-HHats-CL-V03-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -1985,7 +1985,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Shack-HHats-CL-V02-SABIAN-AAX.flac</filename>
+    <filename>//////Shack-HHats-CL-V02-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2002,7 +2002,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Shack-HHats-CL-V01-SABIAN-AAX.flac</filename>
+    <filename>//////Shack-HHats-CL-V01-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2045,7 +2045,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///BELL-HHats-CL-V04-SABIAN-AAX.flac</filename>
+    <filename>//////BELL-HHats-CL-V04-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2062,7 +2062,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-HHats-CL-V03-SABIAN-AAX.flac</filename>
+    <filename>//////BELL-HHats-CL-V03-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2079,7 +2079,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-HHats-CL-V02-SABIAN-AAX.flac</filename>
+    <filename>//////BELL-HHats-CL-V02-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2096,7 +2096,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-HHats-CL-V01-SABIAN-AAX.flac</filename>
+    <filename>//////BELL-HHats-CL-V01-SABIAN-AAX.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2139,7 +2139,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///TOM10-V08-StarClassic-10x10.flac</filename>
+    <filename>//////TOM10-V08-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2156,7 +2156,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM10-V07-StarClassic-10x10.flac</filename>
+    <filename>//////TOM10-V07-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2173,7 +2173,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM10-V06-StarClassic-10x10.flac</filename>
+    <filename>//////TOM10-V06-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2190,7 +2190,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM10-V05-StarClassic-10x10.flac</filename>
+    <filename>//////TOM10-V05-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2207,7 +2207,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM10-V03-StarClassic-10x10.flac</filename>
+    <filename>//////TOM10-V03-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2224,7 +2224,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM10-V02-StarClassic-10x10.flac</filename>
+    <filename>//////TOM10-V02-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2241,7 +2241,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM10-V01-StarClassic-10x10.flac</filename>
+    <filename>//////TOM10-V01-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2284,7 +2284,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///FLAM10-V08-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V08-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2301,7 +2301,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM10-V07-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V07-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2318,7 +2318,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM10-V06-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V06-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2335,7 +2335,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM10-V05-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V05-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2352,7 +2352,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM10-V04-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V04-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2369,7 +2369,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM10-V03-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V03-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2386,7 +2386,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM10-V02-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V02-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2403,7 +2403,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM10-V01-StarClassic-10x10.flac</filename>
+    <filename>//////FLAM10-V01-StarClassic-10x10.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2446,7 +2446,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///TOM13-V08-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V08-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2463,7 +2463,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM13-V07-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V07-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2480,7 +2480,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM13-V06-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V06-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2497,7 +2497,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM13-V05-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V05-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2514,7 +2514,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM13-V04-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V04-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2531,7 +2531,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM13-V03-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V03-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2548,7 +2548,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM13-V02-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V02-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2565,7 +2565,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///TOM13-V01-StarClassic-13x13.flac</filename>
+    <filename>//////TOM13-V01-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2608,7 +2608,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///FLAM13-V08-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V08-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2625,7 +2625,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM13-V07-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V07-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2642,7 +2642,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM13-V06-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V06-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2659,7 +2659,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM13-V05-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V05-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2676,7 +2676,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM13-V04-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V04-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2693,7 +2693,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM13-V03-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V03-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2710,7 +2710,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM13-V02-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V02-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2727,7 +2727,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///FLAM13-V01-StarClassic-13x13.flac</filename>
+    <filename>//////FLAM13-V01-StarClassic-13x13.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2770,7 +2770,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///Ride-V08-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V08-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2787,7 +2787,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Ride-V07-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V07-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2804,7 +2804,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Ride-V06-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V06-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2821,7 +2821,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Ride-V05-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V05-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2838,7 +2838,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Ride-V04-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V04-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2855,7 +2855,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Ride-V03-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V03-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2872,7 +2872,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Ride-V02-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V02-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2889,7 +2889,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///Ride-V01-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////Ride-V01-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2932,7 +2932,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///BELL-V08-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V08-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2949,7 +2949,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-V07-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V07-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2966,7 +2966,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-V06-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V06-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -2983,7 +2983,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-V05-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V05-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3000,7 +3000,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-V04-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V04-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3017,7 +3017,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-V03-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V03-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3034,7 +3034,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-V02-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V02-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3051,7 +3051,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///BELL-V01-ROBMOR-SABIAN-22.flac</filename>
+    <filename>//////BELL-V01-ROBMOR-SABIAN-22.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3094,7 +3094,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///6-Splash-V05-SABIAN-HH-6.flac</filename>
+    <filename>//////6-Splash-V05-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3111,7 +3111,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-Splash-V04-SABIAN-HH-6.flac</filename>
+    <filename>//////6-Splash-V04-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3128,7 +3128,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-Splash-V03-SABIAN-HH-6.flac</filename>
+    <filename>//////6-Splash-V03-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3145,7 +3145,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-Splash-V02-SABIAN-HH-6.flac</filename>
+    <filename>//////6-Splash-V02-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3162,7 +3162,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-Splash-V01-SABIAN-HH-6.flac</filename>
+    <filename>//////6-Splash-V01-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3205,7 +3205,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///6-SplashCHOKE-V06-SABIAN-HH-6.flac</filename>
+    <filename>//////6-SplashCHOKE-V06-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3222,7 +3222,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-SplashCHOKE-V05-SABIAN-HH-6.flac</filename>
+    <filename>//////6-SplashCHOKE-V05-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3239,7 +3239,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-SplashCHOKE-V04-SABIAN-HH-6.flac</filename>
+    <filename>//////6-SplashCHOKE-V04-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3256,7 +3256,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-SplashCHOKE-V03-SABIAN-HH-6.flac</filename>
+    <filename>//////6-SplashCHOKE-V03-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3273,7 +3273,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-SplashCHOKE-V02-SABIAN-HH-6.flac</filename>
+    <filename>//////6-SplashCHOKE-V02-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3290,7 +3290,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///6-SplashCHOKE-V01-SABIAN-HH-6.flac</filename>
+    <filename>//////6-SplashCHOKE-V01-SABIAN-HH-6.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3333,7 +3333,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///14-Crash-V06-SABIAN-14.flac</filename>
+    <filename>//////14-Crash-V06-SABIAN-14.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3350,7 +3350,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///14-Crash-V05-SABIAN-14.flac</filename>
+    <filename>//////14-Crash-V05-SABIAN-14.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3367,7 +3367,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///14-Crash-V04-SABIAN-14.flac</filename>
+    <filename>//////14-Crash-V04-SABIAN-14.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3384,7 +3384,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///14-Crash-V03-SABIAN-14.flac</filename>
+    <filename>//////14-Crash-V03-SABIAN-14.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3401,7 +3401,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///14-Crash-V02-SABIAN-14.flac</filename>
+    <filename>//////14-Crash-V02-SABIAN-14.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3418,7 +3418,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///14-Crash-V01-SABIAN-14.flac</filename>
+    <filename>//////14-Crash-V01-SABIAN-14.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3461,7 +3461,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///18-CrshCHOKE-V05-SABIAN-18.flac</filename>
+    <filename>//////18-CrshCHOKE-V05-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3478,7 +3478,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///18-CrshCHOKE-V04-SABIAN-18.flac</filename>
+    <filename>//////18-CrshCHOKE-V04-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3495,7 +3495,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///18-CrshCHOKE-V03-SABIAN-18.flac</filename>
+    <filename>//////18-CrshCHOKE-V03-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3538,7 +3538,7 @@
    <midiOutChannel>-1</midiOutChannel>
    <midiOutNote>60</midiOutNote>
    <layer>
-    <filename>///18-Crash-V05-SABIAN-18.flac</filename>
+    <filename>//////18-Crash-V05-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3555,7 +3555,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///18-Crash-V04-SABIAN-18.flac</filename>
+    <filename>//////18-Crash-V04-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3572,7 +3572,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///18-Crash-V03-SABIAN-18.flac</filename>
+    <filename>//////18-Crash-V03-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3589,7 +3589,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///18-Crash-V02-SABIAN-18.flac</filename>
+    <filename>//////18-Crash-V02-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3606,7 +3606,7 @@
     <pitch>0</pitch>
    </layer>
    <layer>
-    <filename>///18-Crash-V01-SABIAN-18.flac</filename>
+    <filename>//////18-Crash-V01-SABIAN-18.flac</filename>
     <ismodified>false</ismodified>
     <smode>forward</smode>
     <startframe>0</startframe>
@@ -3794,6 +3794,18 @@
      <note_off>false</note_off>
     </note>
     <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
      <position>144</position>
      <leadlag>0</leadlag>
      <velocity>0.8</velocity>
@@ -3833,6 +3845,73 @@
   </pattern>
   <pattern>
    <name>intro+verse#2</name>
+   <category>not_categorized</category>
+   <size>192</size>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>27</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>27</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
+  </pattern>
+  <pattern>
+   <name>intro+verse#2b</name>
    <category>not_categorized</category>
    <size>192</size>
    <noteList>
@@ -4273,7 +4352,7 @@
     <note>
      <position>132</position>
      <leadlag>0.56</leadlag>
-     <velocity>0.53</velocity>
+     <velocity>0.57</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -4297,7 +4376,7 @@
     <note>
      <position>156</position>
      <leadlag>0.48</leadlag>
-     <velocity>0.47</velocity>
+     <velocity>0.54</velocity>
      <pan_L>0.5</pan_L>
      <pan_R>0.5</pan_R>
      <pitch>0</pitch>
@@ -4328,6 +4407,296 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>31</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
+  </pattern>
+  <pattern>
+   <name>verse-fill2#2</name>
+   <category>not_categorized</category>
+   <size>192</size>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>27</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>31</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>132</position>
+     <leadlag>0.56</leadlag>
+     <velocity>0.6</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>156</position>
+     <leadlag>0.4</leadlag>
+     <velocity>0.67</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>31</instrument>
+     <note_off>false</note_off>
+    </note>
+   </noteList>
+  </pattern>
+  <pattern>
+   <name>verse-fill2-last</name>
+   <category>not_categorized</category>
+   <size>192</size>
+   <noteList>
+    <note>
+     <position>0</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>12</position>
+     <leadlag>0.38</leadlag>
+     <velocity>0.7</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>24</position>
+     <leadlag>0</leadlag>
+     <velocity>0.94</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>36</position>
+     <leadlag>0.4</leadlag>
+     <velocity>0.73</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>48</position>
+     <leadlag>0</leadlag>
+     <velocity>0.83</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>60</position>
+     <leadlag>0.38</leadlag>
+     <velocity>0.6</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>72</position>
+     <leadlag>0</leadlag>
+     <velocity>0.73</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>96</position>
+     <leadlag>0</leadlag>
+     <velocity>0.57</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>108</position>
+     <leadlag>0.36</leadlag>
+     <velocity>0.64</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.93</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>132</position>
+     <leadlag>0.38</leadlag>
+     <velocity>0.66</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>17</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>144</position>
+     <leadlag>0</leadlag>
+     <velocity>0.92</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>156</position>
+     <leadlag>0.34</leadlag>
+     <velocity>0.65</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>168</position>
+     <leadlag>0</leadlag>
+     <velocity>0.71</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>11</instrument>
      <note_off>false</note_off>
     </note>
    </noteList>
@@ -4455,6 +4824,18 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>11</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -4757,6 +5138,18 @@
      <key>C0</key>
      <length>-1</length>
      <instrument>8</instrument>
+     <note_off>false</note_off>
+    </note>
+    <note>
+     <position>120</position>
+     <leadlag>0</leadlag>
+     <velocity>0.8</velocity>
+     <pan_L>0.5</pan_L>
+     <pan_R>0.5</pan_R>
+     <pitch>0</pitch>
+     <key>C0</key>
+     <length>-1</length>
+     <instrument>0</instrument>
      <note_off>false</note_off>
     </note>
     <note>
@@ -5515,28 +5908,28 @@
    <patternID>vese-fill1</patternID>
   </group>
   <group>
-   <patternID>intro+verse</patternID>
-  </group>
-  <group>
-   <patternID>intro+verse</patternID>
-  </group>
-  <group>
-   <patternID>intro+verse</patternID>
-  </group>
-  <group>
-   <patternID>verse-fill2</patternID>
-  </group>
-  <group>
-   <patternID>intro+verse</patternID>
+   <patternID>intro+verse#2</patternID>
   </group>
   <group>
    <patternID>intro+verse#2</patternID>
   </group>
   <group>
-   <patternID>intro+verse</patternID>
+   <patternID>intro+verse#2</patternID>
   </group>
   <group>
-   <patternID>intro+verse</patternID>
+   <patternID>verse-fill2#2</patternID>
+  </group>
+  <group>
+   <patternID>intro+verse#2</patternID>
+  </group>
+  <group>
+   <patternID>intro+verse#2b</patternID>
+  </group>
+  <group>
+   <patternID>intro+verse#2</patternID>
+  </group>
+  <group>
+   <patternID>verse-fill2#2</patternID>
   </group>
   <group>
    <patternID>bidge</patternID>
@@ -5620,7 +6013,7 @@
    <patternID>intro+verse</patternID>
   </group>
   <group>
-   <patternID>intro+verse#2</patternID>
+   <patternID>verse-fill2-last</patternID>
   </group>
   <group>
    <patternID>intro+verse</patternID>
