@@ -8,13 +8,22 @@ Beatles
 -------------------
 * Come Together - GSCW-2 drumkit.
 
-  Another song using the exact drums... made for fun:
-  (https://soundcloud.com/jacob-lorensen/pjerrot-sa-til-m-nen)
+  ComeTogether.h2song
+
+  You can hear it on something I made for fun: "Au claire de la lune"
+  played as-if-it-were Come Together:
+  https://soundcloud.com/jacob-lorensen/pjerrot-sa-til-m-nen
 
 * Sgt Pepper's Lonely Hearts Club Band - GSCW-1 drumkit 
 
-  (https://soundcloud.com/jacob-lorensen/sgt-pepper-lonely-hearts-club-band-karaoke)
+  SgtPepper.h2song
+
+  You can hear it on my karaoke version:
+  https://soundcloud.com/jacob-lorensen/sgt-pepper-lonely-hearts-club-band-karaoke
 
 My own songs:
 -------------------
-* 23 december - GSCW-1 drumkit (https://soundcloud.com/jacob-lorensen/23-december)
+* 23 december. One of my own songs.  - GSCW-1 drumkit 
+  23december.h2song
+
+  https://soundcloud.com/jacob-lorensen/23-december
