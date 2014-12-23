@@ -21,6 +21,13 @@ Beatles
   You can hear it on my karaoke version:
   https://soundcloud.com/jacob-lorensen/sgt-pepper-lonely-hearts-club-band-karaoke
 
+* My First My Last My Everything - GSCW-1 drumkit
+
+  MyFirstMyLastMyEverything.h2song
+
+  You can hear it on my karaoke version (work very much in progress):
+  https://soundcloud.com/jacob-lorensen/my-first-my-last-my-everything-karaoke-cover
+
 My own songs:
 -------------------
 * 23 december. One of my own songs.  - GSCW-1 drumkit 
